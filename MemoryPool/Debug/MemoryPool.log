@@ -1,7 +1,0 @@
-﻿  Driver.cpp
-c:\users\dionn\onedrive\documents\visual studio 2015\projects\memorypool\memorypool\memorypool.h(123): warning C4297: 'MemoryPoolManagedClass::operator delete': function assumed not to throw an exception but does
-  c:\users\dionn\onedrive\documents\visual studio 2015\projects\memorypool\memorypool\memorypool.h(123): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
-c:\users\dionn\onedrive\documents\visual studio 2015\projects\memorypool\memorypool\memorypool.h(128): warning C4297: 'MemoryPoolManagedClass::operator delete[]': function assumed not to throw an exception but does
-  c:\users\dionn\onedrive\documents\visual studio 2015\projects\memorypool\memorypool\memorypool.h(128): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
-  MemoryPool.vcxproj -> C:\Users\Dionn\OneDrive\Documents\Visual Studio 2015\Projects\MemoryPool\Debug\MemoryPool.exe
-  MemoryPool.vcxproj -> C:\Users\Dionn\OneDrive\Documents\Visual Studio 2015\Projects\MemoryPool\Debug\MemoryPool.pdb (Full PDB)
